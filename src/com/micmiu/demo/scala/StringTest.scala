@@ -6,7 +6,7 @@ package com.micmiu.demo.scala
  * Date: 5/19/2014
  * Time: 16:59
  */
-object TestMain {
+object StringTest {
 
   def main(args: Array[String]){
     val name = "micmiu.com"
